@@ -1,0 +1,51 @@
+#ava-antohi{
+    width: 20%;
+    margin: 30px;
+    margin-bottom: 0;
+    float: left;
+}
+#ava-antohi img{
+    width: 100%;
+}
+table{
+    margin: 20px;
+}
+thead{
+    text-align: center;
+}
+#aside-right{
+    width: 5%;
+    height: 100%;
+    background-color: #303030;
+}
+#facts-wrapper{
+    width: 5%;
+    display: flex;
+    flex-direction: column;
+    position: fixed
+}
+#inline{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+#inline div{
+    width: 30vh;
+    text-align: center;
+}
+#inline video, img{
+    width: 100%;
+}
+.news{
+    width: 100%;
+}
+.news img{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+figure{
+    margin: auto;
+    flex-shrink: 0;
+}
+figure ul{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+.menu-list img{
+    border-radius: 15px;
+}
+.menu-link{
+    text-decoration: none;
+    color: white;
+}
+.menu-link:hover{
+    color:rgb(141, 8, 8) ;
+}
+#Now-Boy{
+    text-decoration: underline;
+    color: rgb(141, 8, 8);
+    font-weight: bold;
+}
+.news img:hover{
+    transform: 
+    scale(2);
+
+}
